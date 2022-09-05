@@ -10,8 +10,18 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ .polje{  
+  text-align: center;    
+  width: 100px;  
+  height: 100px;  
+  padding-top: 20 px;  
+  margin-left: auto;
+  margin-right: auto;
+  font-size: large;
+   
+  }  
  .post-container {
-  background: #e2e8d5;
+  background: #688330;
   display: flex;
   flex-direction: column;
   padding: 3%;
